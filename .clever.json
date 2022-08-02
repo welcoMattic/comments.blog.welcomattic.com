@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "app_id": "app_1e64c36e-0b37-403c-a072-520ed5fd67cb",
+      "org_id": "user_b05c182b-cfec-4509-81f0-6b6bd3f85c49",
+      "deploy_url": "https://push-n2-par-clevercloud-customers.services.clever-cloud.com/app_1e64c36e-0b37-403c-a072-520ed5fd67cb.git",
+      "name": "comments.blog.welcomattic.com",
+      "alias": "comments.blog.welcomattic.com"
+    }
+  ]
+}
